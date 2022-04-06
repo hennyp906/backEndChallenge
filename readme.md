@@ -13,6 +13,8 @@ Basic authentication(Username and password required)
 
 Request-type: GET
 
+API: `http://127.0.0.1:8000/api/profiles`
+
 This endpoint would return all the existing profiles.
 
 ##### 2) Get all bonds :
