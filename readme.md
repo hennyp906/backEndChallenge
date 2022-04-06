@@ -3,8 +3,6 @@
 A service exposed through a REST API that lets users publish bonds for sale and buy bonds published by other users.
 Django is used to create REST APIs.
 
-Starting URL: http://127.0.0.1:8000/api/
-
 Basic authentication(Username and password required)
 
 ## Endpoints created:
